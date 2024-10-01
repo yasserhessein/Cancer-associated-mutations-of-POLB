@@ -3,4 +3,4 @@ This study aims to develop an accurate risk prediction model for cancer associat
 
 
 
-![image.png](attachment:663a2832-0fb5-4d35-b5b6-6c0193bc0702.png)![image.png](attachment:018b88c7-0d70-4132-bb2a-9fdc9b6ee937.png)
+![image.png](attachment:663a2832-0fb5-4d35-b5b6-6c0193bc0702.png)
