@@ -3,4 +3,4 @@ This study aims to develop an accurate risk prediction model for cancer associat
 
 
 
-[![image.png](attachment:663a2832-0fb5-4d35-b5b6-6c0193bc0702.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Protein_POLB_PDB_1bno.png/640px-Protein_POLB_PDB_1bno.png)
+
