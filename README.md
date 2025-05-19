@@ -11,8 +11,8 @@ In this work, we propose a novel hybrid model combining Random Forest with Parti
 
 Special thanks to my co-authors and everyone who supported this research journey.
 
-Read the full paper :
- https://doi.org/10.52783/jisem.v10i46s.8772
+[Read the full paper :
+ https://doi.org/10.52783/jisem.v10i46s.8772](https://github.com/yasserhessein/Cancer-associated-mutations-of-POLB)
 
 
 
